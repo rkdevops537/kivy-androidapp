@@ -1,4 +1,4 @@
-# kiya-androidapp
+# kivy-androidapp
 
 This App will track the completion percentage of the timeline decided by an User .
 Example: User Decided to quit smoking for 3 days, then user can give the mission name as "Quit Smoking" and days "3". Then app will keep on showing , how much percentage is completed . e.g: on 1.5 days it will show "50%" completed.
